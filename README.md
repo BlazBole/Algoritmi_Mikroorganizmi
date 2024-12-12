@@ -27,5 +27,6 @@ Prva vrstica vsebuje dve števili: višino `h` in širino `w` matrike. Nato sled
 
 Izpišite število različnih mikroorganizmov.
 
-##Komentar
+## Komentar
 Primer bo nadzornejši, če različne mikroorganizme pobarvamo z različnimi barvami:
+![Mikroorganizmi](mikroorganizmi.png)
